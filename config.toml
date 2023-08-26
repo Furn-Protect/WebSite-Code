@@ -1,0 +1,33 @@
+title = "Furniture-Protector"
+baseURL = "https://Furn-Protect.github.io/"
+languageCode = "en"
+theme = "ananke"
+disqusShortname = "Furniture-Protector"
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  description = "Pet Alerter | Intelligent Furniture Protector"
+  faceboook = ""
+  # twitter = "https://twitter.com/GoHugoIO"
+  instagram = ""
+  github = "https://twitter.com/GoHugoIO"
+  youtube = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+
+  [markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
