@@ -1,5 +1,5 @@
 ---
-title: "Funrniture Protector"
+title: "Furniture Protector"
 featured_image: '/images/index.jpg'
 
 
