@@ -21,7 +21,7 @@ featured_image: '/images/3.jpg'
   <img src="/gifs/11.gif" alt="gif2" style="height: 400px;">
   <img src="/gifs/14.gif" alt="gif2" style="height: 400px;">
   <img src="/gifs/15.gif" alt="gif2" style="height: 400px;">
-  <img src="/gifs/4.gif" alt="gif4" style="height: 200px;">
+  <img src="/gifs/4.gif" alt="gif4" style="height: 400px;">
 </div>
 
 <br>
